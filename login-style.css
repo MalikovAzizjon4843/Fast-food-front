@@ -1,0 +1,30 @@
+.food-img{
+    width: 1124.86px;
+    height: 900px;
+    top: 900px;
+    left: 860.86px;
+}
+h3{
+    /* Tizimga xush kelibsi */
+
+
+    position: absolute;
+    width: 243px;
+    height: 14px;
+    left: 968px;
+    top: 250px;
+
+    font-family: 'SFProDisplay';
+    font-size: 24px;
+    line-height: 14px;
+    /* identical to box height, or 58% */
+
+
+    color: #2D3A45;
+}
+.wrapper{
+    background-color: #EDEFF3;
+    position: relative;
+    width: 1366px;
+    height: 900px;
+}
